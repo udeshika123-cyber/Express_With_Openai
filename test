@@ -1,0 +1,24 @@
+curl --location 'localhost:3000/api/openai/chat' \
+--header 'Content-Type: application/json' \
+--header 'Cookie: userID=id_pqw25684axo' \
+--data '{
+    "prompt":"what is my name",
+    "oldContent":[
+        {
+            "role":"user",
+            "content":"Hello there who are you"
+        },
+        {
+            "role":"assistant",
+            "content": "Hello! I'\''m CSLK Assistant, here to help you with any programming-related questions or problems you might have. How can I assist you today?"
+        },
+        {
+            "role":"user",
+            "content":"My Name is Pasindu call me using that name"
+        },
+        {
+            "role":"assistant",
+            "content": "Sure thing, Pasindu! How can I assist you today?"
+        }
+    ]
+}'
