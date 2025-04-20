@@ -1,8 +1,7 @@
-# EXPRESS-WITH-OPENAI
-
-_Engage, Empower, Elevate Conversations with AI_
-
 <p align="center">
+  # EXPRESS-WITH-OPENAI
+
+  _Engage, Empower, Elevate Conversations with AI_
   <img alt="last-commit" src="https://img.shields.io/github/last-commit/pasindusampath/express-with-openai?style=flat&logo=git&logoColor=white&color=0080ff">
   <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/pasindusampath/express-with-openai?style=flat&color=0080ff">
   <img alt="repo-language-count" src="https://img.shields.io/github/languages/count/pasindusampath/express-with-openai?style=flat&color=0080ff">
