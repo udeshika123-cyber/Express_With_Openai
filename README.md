@@ -103,8 +103,8 @@ Build `express-with-openai` from source and install dependencies:
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
 - GitHub: [@pasindusampath](https://github.com/pasindusampath)
-- Email: pasindusampath.dev@gmail.com
-- LinkedIn: [T.B Pasindu Sampath Bandara](https://www.linkedin.com/in/pasindusampath)
+- Email: pasindub32@gmail.com
+- LinkedIn: [T.B Pasindu Sampath Bandara](https://www.linkedin.com/in/pasindu-tb)
 
 ---
 
