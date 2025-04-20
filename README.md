@@ -1,6 +1,6 @@
 <h1 align="center">EXPRESS-WITH-OPENAI</h1>
 
-*Engage, Empower, Elevate Conversations with AI*
+<h5 align="center">*Engage, Empower, Elevate Conversations with AI*</h5>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/pasindusampath/express-with-openai?style=flat&color=0080ff" />
